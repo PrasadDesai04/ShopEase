@@ -1,4 +1,4 @@
-# LUXE — React E-commerce Storefront
+# ShopEase— React E-commerce Storefront
 
 A premium fashion e-commerce storefront built with **React 18** and **Vite**. Features a fully interactive product catalogue with live search, multi-filter sorting, a slide-out cart, wishlist toggling, and scroll-reveal animations — all built using functional components and React Hooks.
 
