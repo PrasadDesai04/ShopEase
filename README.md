@@ -34,7 +34,7 @@ A premium fashion e-commerce storefront built with **React 18** and **Vite**. Fe
 ## 📁 Project Structure
 
 ```
-luxe-react/
+shopease/
 ├── public/
 ├── src/
 │   ├── components/
@@ -98,8 +98,8 @@ This project was built to demonstrate practical use of core React concepts:
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/luxe-react.git
-cd luxe-react
+git clone https://github.com/<your-username>/shopease.git
+cd shopease
 
 # Install dependencies
 npm install
